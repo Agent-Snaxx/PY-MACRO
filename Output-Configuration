@@ -1,0 +1,17 @@
+Output / Artefacts
+
+macro_wire.db — SQLite DB (created automatically)
+
+pymac.log — rotating log file output (append-only)
+
+Terminal market snapshot each loop
+
+Default Config (see pymac.py)
+
+Loop interval: 300 seconds
+
+News sources: NYT Business, Reuters Business, CNBC, Yahoo Finance
+
+Monitors: SPY, QQQ, DIA, IWM, TLT, GLD, VIX + configured futures/index symbols
+
+Crypto: BTC, ETH via CoinGecko
